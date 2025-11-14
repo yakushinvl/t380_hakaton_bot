@@ -67,7 +67,3 @@ npm start
 - MAX-Bot-API
 - MAX Bridge
 - Webpack
-
-## Лицензия
-
-MIT
