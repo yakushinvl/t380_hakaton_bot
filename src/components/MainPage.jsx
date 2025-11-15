@@ -26,7 +26,7 @@ const MainPage = () => {
 
   return (
     <div className="main-page">
-      <h1 className="page-title">Крепкая Нить</h1>
+      <h1 className="page-title">Плексус</h1>
       
       <ThreadVisualization strength={threadStrength} />
       

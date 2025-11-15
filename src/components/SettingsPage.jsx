@@ -197,7 +197,7 @@ const SettingsPage = () => {
       </div>
 
       <div className="settings-section card">
-        <h2 className="section-title">Крепкая нить</h2>
+        <h2 className="section-title">Плексус</h2>
         
         <div className="setting-item">
           <div className="setting-label">
@@ -235,7 +235,7 @@ const SettingsPage = () => {
       <div className="settings-section card">
         <h2 className="section-title">О приложении</h2>
         <p className="about-text">
-          Крепкая Нить — приложение для управления делами и повышения личной эффективности.
+          Плексус — приложение для управления делами и повышения личной эффективности.
           Выполняйте дела, чтобы сплести крепкую нить из ниточек!
         </p>
         <p className="version-text">Версия 1.0.0</p>

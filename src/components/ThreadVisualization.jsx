@@ -46,7 +46,7 @@ const ThreadVisualization = ({ strength }) => {
 
   return (
     <div className="thread-container card">
-      <h2 className="thread-title">Крепкая Нить</h2>
+      <h2 className="thread-title">Плексус</h2>
       
       <div className="thread-visualization-wrapper">
         <div className="thread-circle">
